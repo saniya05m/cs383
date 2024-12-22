@@ -3,8 +3,8 @@ Final project repository for CS383 Machine learning class
 
 To replicate results from the paper:
 Figure 1. TF-IDF vs Bag of words
-python main.py -d combined -f tdif -c no
-python main.py -d combined -f bow -c no
+```python main.py -d combined -f tdif -c no```
+```python main.py -d combined -f bow -c no```
 
 Figure 2. Classification reports for all cleanup types
 For no cleanup data. python main.py -d combined -f tdif -c no
